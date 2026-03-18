@@ -1,25 +1,83 @@
 # Career Transition Archive
+### By George O. Andary Jr.
 
-**Owner:** George O Andary Jr  
-**Last Updated:** 2026-03-18  
-**Purpose:** Portable archive of key wins, artifacts, and how-tos from my current role. Designed to be GitHub-ready.
+This repository is a structured, GitHub‑ready archive of professional accomplishments, analytics tools, documentation, and reusable assets developed throughout my role at DTE. It covers Power BI, Excel forecasting, automation workflows, and standardized playbooks designed for operational excellence and repeatability.
 
-## Quick Start
-- Start with `01_Wins_and_Highlights/Impact_Summary.md` for a concise narrative.
-- See `03_Analytics_PowerBI/` for model/DAX notes and tuning.
-- Use `04_Excel_Templates/Template_Guide.md` to reuse forecasting templates.
-- Visit `06_SOPs_and_Playbooks/` for step-by-step processes.
-- For publishing: `09_Portability/PORTABILITY_GUIDE_GitHub.md`.
+---
 
-## Contents
-- Wins & Highlights – portfolio and impact stories.
-- Code & Scripts – organized by project with usage notes.
-- Power BI – model design, DAX patterns, refresh & performance.
-- Excel Templates – dynamic tables, forecasting formulas, price integration.
-- Environment Setup – tool setup and data connections.
-- SOPs & Playbooks – repeatable operational guides.
-- Career Materials – resume bullets and interview stories.
-- Reading Notes – summaries of useful books/articles.
+## 📊 Contents Overview
 
-## License
-See `LICENSE`.
+### **1. Wins & Highlights**
+- Impact summary (analytics, forecasting, performance improvements)
+- STAR‑formatted accomplishment stories
+- Consolidated **Wins Packet** (DOCX)
+
+### **2. Code & Scripts**
+- Power BI data model notes, DAX patterns, performance tuning
+- Excel forecasting macros and templates
+- Starter structures for extending this repo with code
+
+### **3. Analytics (Power BI)**
+- Dimensional model documentation  
+- DAX pattern library  
+- Performance tuning guidance  
+- Dataflow / gateway connection notes  
+
+### **4. Excel Templates**
+- BI‑ready forecasting format  
+- Dynamic tables, name manager, validation setups  
+- Template guides in both Markdown & DOCX  
+
+### **5. Environment Setup**
+- Excel Trust Center settings  
+- Add‑in recommendations  
+- Version control guidance  
+
+### **6. SOPs & Playbooks**
+- Weekly refresh checklist  
+- Data ingestion workflow  
+- Dashboard enhancement SOP  
+- Performance diagnostics procedure  
+
+### **7. Career Materials**
+- Resume bullets  
+- Accomplishment structures  
+- Portfolio-ready narrative  
+
+### **8. Reading Notes**
+- Book summaries  
+- Framework takeaways  
+- Actionable insights  
+
+### **9. Portability (GitHub)**
+- GitHub setup scripts  
+- Repository initialization helpers  
+- Publishing instructions  
+
+---
+
+## 🛠️ Technical Skills Demonstrated
+
+- **Power BI** (DAX, M, data modeling, UX, performance tuning)  
+- **Excel Automation** (dynamic tables, forecasting logic, macros)  
+- **Analytics Engineering** (dimensional modeling, data pipelines)  
+- **Project Management** (SOPs, documentation, scalable workflows)  
+- **Version Control** (Git/GitHub best practices, structure & portability)  
+
+---
+
+## 🚀 Purpose of This Repository
+
+This archive is designed to be a **portable, reusable blueprint** of tools, processes, and professional achievements. It serves as:
+
+- A future reference point for analytics and PM work  
+- A showcase for interviewers & stakeholders  
+- A base for future enhancements and new projects  
+
+---
+
+## 📩 Contact
+
+If you'd like to connect:  
+**George O. Andary Jr.**  
+(Feel free to add your LinkedIn or portfolio link here)
