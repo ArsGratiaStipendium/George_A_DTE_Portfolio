@@ -1,0 +1,23 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Office temp
+~$*
+
+# Power BI (optional large files)
+*.pbix
+*.pbit
+
+# Archives
+*.zip
+
+# Credentials (never commit; placeholder for your local files)
+secrets/
